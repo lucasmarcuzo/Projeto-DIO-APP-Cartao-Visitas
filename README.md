@@ -2,9 +2,9 @@
 
 <H2> Criando uma aplicação para gerar cartões de visitas, usando padrões de projeto e boas práticas de programação em Kotlin.</h2>
 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas/raw/main/CartaoDeVisitas/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas/raw/main/CartaoDeVisitas/APK/app-release.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas/raw/main/CartaoDeVisitas/APK/app-debug.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-APP-Cartao-Visitas/raw/main/CartaoDeVisitas/APK/app-debug.apk) 
 
-<H2> 👨🏻‍💻 Instrutor: </h2>
+## 👨🏻‍💻 Instrutor: 
 
 | Cassiano Peres|
 | :---: | 
