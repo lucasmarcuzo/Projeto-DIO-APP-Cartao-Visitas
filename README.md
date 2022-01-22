@@ -6,9 +6,9 @@
 
 ## 👨🏻‍🔬 Instrutor: 
 
-| Cassiano Peres|
+| Ana Luísa Dias|
 | :---: | 
-| <img src="https://github.com/igorbag.png?size=115" width=115><br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=whiteColor=white&link=https://github.com/igorbag)](https://github.com/igorbag) |
+| <img src="https://github.com/baiana.png?size=115" width=115><br> [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=whiteColor=white&link=https://github.com/baiana)](https://github.com/baiana) |
 
 ## 📱 Contato:
 
